@@ -14,7 +14,7 @@
 
 ## Descripción de la Actividad
 
-Rellenar
+Actividades de programacion orientada a objetos un poco más avanzadas y con mayor complejidad que las anteriores. Con aplicaciones más visuales y con ejemplos que hacen más fácil comprender el concepto de la programación orientada a objetos.
 
 
 ## Instrucciones de Compilación y Ejecución
@@ -29,7 +29,8 @@ Rellenar
 ## Desarrollo de la Actividad
 ### Descripción del Desarrollo
 
-Rellenar
+En esta actividad se han desarrollado distintas clases aplicando conceptos de Programación Orientada a Objetos, constructores, validación de datos y uso de métodos.
+Los ejercicios han ido aumentando en complejidad, permitiendo practicar el control de errores y el trato con objetos mediante ejemplos claros y prácticos.
 
 ### Código Fuente
 
@@ -38,9 +39,10 @@ Rellenar
 
 ## Conclusiones
 
-Rellenar
+La realización de esta actividad ha ayudado a comprender mejor los principios de la Programación Orientada a Objetos en Kotlin. Gracias a ejemplos más completos y visuales, se ha facilitado el aprendizaje y la preparación para desarrollar programas más complejos.
 
 ## Referencias y Fuentes
 
-[revilofe](https://revilofe.github.io/)
-[kotlin](https://kotlinlang.org/docs/home.html)
+- [revilofe](https://revilofe.github.io/)
+
+- [kotlin](https://kotlinlang.org/docs/home.html)
